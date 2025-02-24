@@ -1,3 +1,3 @@
 # Demo    
 
-Tekst który sobie można czytać :).
+Tekst który sobie można czytać .
